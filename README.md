@@ -1,27 +1,31 @@
-# Next.js + Tailwind CSS Example
+# Live Code Editor Using Next.Js 13 + TailwindCSS 2.0
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
-## Deploy your own
+1. This is a Live Code Editor site where you can write HTML, CSS and Javascript code and see ouput in real time [Live Code Editor](https://trademarkia-project.vercel.app/).
+2. Using the Firebase Google Authentiation to authenticate the user and Make different sessions.
+3. Fully Responsive comfortable in phone also.
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+# How to Use Code Editor
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+1. First of All Sign in with Google, it will authenticate the valid user.
+2. After Signin there are three editors HTML, CSS and JAVASCRIPT.
+3. In the Editor part Write the Code for HTML, CSS and Javascript.
+4. The Output will be shown below and it is live you don't have to click the run button.
 
-## How to use
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
+![Screenshot 2023-02-10 at 1 21 55 AM](https://user-images.githubusercontent.com/81040573/217922360-2212ad6f-b9c1-4302-bad2-9552ef9816bf.png)
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+![Screenshot 2023-02-10 at 1 41 01 AM](https://user-images.githubusercontent.com/81040573/217926140-b3587b95-4447-4d39-8673-c208cf21dbc2.png)
+
+
+
+
+
+![Screenshot 2023-02-10 at 1 41 25 AM](https://user-images.githubusercontent.com/81040573/217926217-fe77a1ae-a02a-4ece-afe8-7a50073a052c.png)
+
+
+
+Live Code Editor [Link](https://trademarkia-project.vercel.app/)
